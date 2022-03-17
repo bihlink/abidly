@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^bihlink/(.+)\.html https://bihlink.com/ [R=301,L]
