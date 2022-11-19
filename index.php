@@ -118,9 +118,9 @@
       </div>
       <div class="col">
         <div class="card">
-          <a href="https://www.abid.cc" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=www.abid.cc" class="card-img-top" alt="Reddit Alternative"></a>
+          <a href="https://www.abid.cc" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=abid.cc" class="card-img-top" alt="Reddit Alternative"></a>
           <div class="card-body p-2">
-            <a href="https://www.abid.cc" target="_blank" class="text-decoration-none"><h6 class="card-title fw-bold">Reddit Alternative</h6></a>
+            <a href="https://abid.cc" target="_blank" class="text-decoration-none"><h6 class="card-title fw-bold">Abid's Place</h6></a>
           </div>
         </div>
       </div>
@@ -153,7 +153,7 @@
           </div>
           <ul class="list-group list-group-flush">
             <li class="list-group-item">https://twitter.com/abidnev</li>
-            <li class="list-group-item">https://nitter.net/abidnev</li>
+            <li class="list-group-item"><a href="https://nitter.bihlink.com/abidnev" target="_blank">https://nitter.bihlink.com/abidnev</a></li>
             <li class="list-group-item">A third item</li>
           </ul>
         </div>
@@ -208,26 +208,6 @@
         </div>
       </div>
     </div>
-  <h1>Welcome Abid's Network</h1>
-  <p><a href="https://xabid.com">xAbid</a></p>
-  <p><a href="https://bihlink.com">BiH Link</a></p>
-  <p><a href="https://abidly.com">Abidly</a></p>
-  <p><a href="https://seolads.com">Seolads</a></p>
-  <p><a href="https://tuby.me">Tuby</a></p>
-  <p><a href="https://upvo.me">Upvo</a></p>
-  <p><a href="https://www.abid.cc">Reddit Alternative</a></p>
-  <p><a href="https://coki.me">Coki URL Shortener</a></p>
-  <p><a href="https://my.coki.me">Digital Business Cards</a></p>
-  <p><a href="https://seoclerksaffiliate.com">Seoclerks affiliate theme</a></p>
-  <p><a href="https://seoclerksaffiliate.com/demo/">Seoclerks affiliate theme demo</a></p>
-  <p><a href="https://hireclerks.com">Hire Clerks</a></p>
-  <p><a href="https://seo.clerks.me">SEO Clerks</a></p>
-  <p><a href="https://recipetv.blogspot.com/">Recipes TV</a></p>
-  <h2>Social Media</h2>
-  <p><a href="https://www.instapaper.com/p/anwebservices">Instapaper</a></p>
-  <p><a href="https://linktr.ee/anwebservices">LinkTree</a></p>
-  <p><a href="https://linktr.ee/tubyme">Tuby LinkTree</a></p>
-  <p><a href="https://nitter.net/abidnev">Nitter</a></p>
   </div>
 </body>
 </html>
