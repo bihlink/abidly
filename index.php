@@ -118,7 +118,7 @@
       </div>
       <div class="col">
         <div class="card">
-          <a href="https://www.abid.cc" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=abid.cc" class="card-img-top" alt="Reddit Alternative"></a>
+          <a href="https://abid.cc" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=abid.cc" class="card-img-top" alt="Reddit Alternative"></a>
           <div class="card-body p-2">
             <a href="https://abid.cc" target="_blank" class="text-decoration-none"><h6 class="card-title fw-bold">Abid's Place</h6></a>
           </div>
