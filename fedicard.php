@@ -1,11 +1,12 @@
 <?php
 if (isset($_GET['profile'])) {
 $profile = $_GET['profile'];
+$name = basename($profile);
 }
 ?>
 <html lang="en">
 <head>
-    <title>Fedicard</title>
+    <title>Fedicard <?= $name; ?></title>
 <?php
   include_once('inc/inhead.php');   
 ?>
