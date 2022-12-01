@@ -12,6 +12,9 @@
                 <a class="nav-link" href="https://abid.vercel.app/pleroma.php">Pleroma Feed</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="https://abid.vercel.app/fedilink.php">FediLink Feed</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="https://abid.vercel.app/directory/">Directory</a>
               </li>
               <li class="nav-item">
