@@ -9,6 +9,9 @@
                 <a class="nav-link active" aria-current="page" href="https://abid.vercel.app/">Home</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="https://abid.vercel.app/pleroma.php">Pleroma Feed</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="https://abid.vercel.app/directory/">Directory</a>
               </li>
               <li class="nav-item">
