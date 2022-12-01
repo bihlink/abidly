@@ -2,12 +2,12 @@
 <head>
     <title>Abid's Pleroma Instance</title>
 <?php
-  include_once('./inc/inhead.php');   
+  include_once('../../inc/inhead.php');   
 ?>
 </head>
 <body class="text-white">
 <?php
- include_once('./inc/navbar.php');  
+ include_once('../../inc/navbar.php');  
 ?>
     
   <div class="container mt-3">
