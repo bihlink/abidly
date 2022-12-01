@@ -5,7 +5,7 @@
   include_once('inc/inhead.php');   
 ?>
 </head>
-<body class="text-white">
+<body>
 <?php
  include_once('inc/navbar.php');  
 ?>
