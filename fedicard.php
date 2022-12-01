@@ -1,5 +1,7 @@
 <?php
+if (isset($_GET['profile'])) {
 $profile = $_GET['profile'];
+}
 ?>
 <html lang="en">
 <head>
@@ -16,7 +18,7 @@ $profile = $_GET['profile'];
   <div class="container mt-3">
     <?php
     if (isset($profile)) {
-    echo file_get_contents("https://maplefeed.bihlink.com/apiv2/feed?userurl=https://'.$profile.'&theme=modern-light-min&size=100&header=true&replies=false&boosts=true");
+    echo file_get_contents("https://maplefeed.bihlink.com/apiv2/feed?userurl=https://$profile&theme=modern-light-min&size=100&header=true&replies=false&boosts=true");
     } else {
     echo file_get_contents("https://maplefeed.bihlink.com/apiv2/feed?userurl=https://mastodon.social/users/abidnev&theme=modern-light-min&size=100&header=true&replies=false&boosts=true");
     }
