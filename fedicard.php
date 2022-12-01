@@ -6,7 +6,7 @@ $name = basename($profile);
 ?>
 <html lang="en">
 <head>
-    <title>Fedicard <?= $name; ?></title>
+    <title>@<?= $name; ?> Fedicard</title>
 <?php
   include_once('inc/inhead.php');   
 ?>
