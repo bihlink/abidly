@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-    <title>Abid's Network</title>
+    <title>Abid's Pleroma Instance</title>
 <?php
   include_once('./inc/inhead.php');   
 ?>
