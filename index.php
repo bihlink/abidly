@@ -113,12 +113,16 @@
       <div class="col">
         <div class="card">
           <div class="card-header bg-danger">
-            Other Blogs
+            FediCards
           </div>
           <ul class="list-group list-group-flush">
-            <li class="list-group-item">An item</li>
-            <li class="list-group-item">A second item</li>
-            <li class="list-group-item">A third item</li>
+            <li class="list-group-item"><a href="https://abid.vercel.app/fedicard.php?profile=abid.cc/users/abid" target="_blank">@abid@abid.cc</a></li>
+            <li class="list-group-item"><a href="https://abid.vercel.app/fedicard.php?profile=mastodon.social/users/abidnev" target="_blank">@abidnev@mastodon.social</a></li>
+            <li class="list-group-item"><a href="https://abid.vercel.app/fedicard.php?profile=mastodon.world/users/fedilink" target="_blank">@fedilink@mastodon.world</a></li>
+            <li class="list-group-item"><a href="https://abid.vercel.app/fedicard.php?profile=fosstodon.org/users/fedilink" target="_blank">@fedilink@fosstodon.org</a></li>
+            <li class="list-group-item"><a href="https://abid.vercel.app/fedicard.php?profile=mastodon.online/users/fedipress" target="_blank">@fedipress@mastodon.online</a></li>
+            <li class="list-group-item"><a href="https://abid.vercel.app/fedicard.php?profile=xabid.com/author/abid" target="_blank">@abid@xabid.com</a></li>
+            <li class="list-group-item"><a href="https://abid.vercel.app/fedicard.php?profile=upvo.me/author/upvote" target="_blank">@upvote@upvo.me</a></li>
           </ul>
         </div>
       </div>
@@ -129,7 +133,7 @@
           </div>
           <ul class="list-group list-group-flush">
             <li class="list-group-item">https://twitter.com/abidnev</li>
-            <li class="list-group-item"><a href="https://nitter.bihlink.com/abidnev" target="_blank">https://nitter.bihlink.com/abidnev</a></li>
+            <li class="list-group-item"><a href="https://nitter.bihlink.com/abidnev" target="_blank">hhttps://nitter.bihlink.com/abidnev</a></li>
             <li class="list-group-item">A third item</li>
           </ul>
         </div>
