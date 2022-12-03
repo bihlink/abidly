@@ -189,5 +189,8 @@
       </div>
     </div>
   </div>
+    <?php
+    echo file_get_contents("https://twitter.xabid.com/fedihash.php");
+    ?>
 </body>
 </html>
