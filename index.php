@@ -192,5 +192,8 @@
     <?php
     echo file_get_contents("https://twitter.xabid.com/fedihash.php");
     ?>
+    <?php
+    echo file_get_contents("https://twitter.xabid.com/abihash.php");
+    ?>
 </body>
 </html>
