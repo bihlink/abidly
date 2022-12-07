@@ -18,6 +18,9 @@
                 <a class="nav-link" href="https://abid.vercel.app/directory/">Directory</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="https://microblog.club">Microblog</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="https://seolads.com/service/2-hq-high-authority-backlinks-fast-indexing">Add Link Here</a>
               </li>
             </ul>
