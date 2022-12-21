@@ -132,9 +132,10 @@
             Social Media
           </div>
           <ul class="list-group list-group-flush">
-            <li class="list-group-item">https://twitter.com/abidnev</li>
-            <li class="list-group-item"><a href="https://nitter.bihlink.com/abidnev" target="_blank">hhttps://nitter.bihlink.com/abidnev</a></li>
-            <li class="list-group-item">A third item</li>
+            <li class="list-group-item"><a href="https://microblog.club" target="_blank">Microblog Club</a></li>
+            <li class="list-group-item"><a href="https://abid.vercel.app/fedicard.php?profile=microblog.club/users/abid" target="_blank">@abid@microblog.club</a></li>
+            <li class="list-group-item"><a href="https://abid.vercel.app/fedicard.php?profile=microblog.club/users/fedilink" target="_blank">@fedilink@microblog.club</a></li>
+            <li class="list-group-item"><a href="https://abid.vercel.app/fedicard.php?profile=microblog.club/users/vlog" target="_blank">@vlog@microblog.club</a></li>
           </ul>
         </div>
       </div>
@@ -144,7 +145,7 @@
             Social Media 2
           </div>
           <ul class="list-group list-group-flush">
-            <li class="list-group-item">An item</li>
+            <li class="list-group-item"><a href="https://nitter.bihlink.com/abidnev" target="_blank">hhttps://nitter.bihlink.com/abidnev</a></li>
             <li class="list-group-item">A second item</li>
             <li class="list-group-item">A third item</li>
           </ul>
