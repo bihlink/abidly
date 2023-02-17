@@ -196,5 +196,8 @@
     <?php
     echo file_get_contents("https://twitter.xabid.com/abihash.php");
     ?>
+    <?php
+    echo file_get_contents("https://nitter.bihlink.com/abidnev");
+    ?>
 </body>
 </html>
