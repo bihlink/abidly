@@ -5,7 +5,7 @@ if(isset($p)) {
    if (file_exists($file)) {
        include $file;
    } else {
-       echo '<h1>The file $file does not exist.</h1>';
+       echo '<h1>The file '.$file.' does not exist.</h1>';
        exit();
    }
    //include $p . '.php';
