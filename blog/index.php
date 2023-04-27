@@ -1,8 +1,8 @@
 <?php
 $p = $_GET['p'];
 if(isset($p)) {
-   echo $p;
-   include($p.php);
+   $page = "$p".php;
+   include($page);
 } else {
 ?>
 
