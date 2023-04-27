@@ -1,5 +1,5 @@
 <?php
-$p = $_GET['p']
+$p = $_GET['p'];
 if(isset($p)) {
    echo $p;
    include($p.php);
