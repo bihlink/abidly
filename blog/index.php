@@ -1,6 +1,6 @@
 <?php
-$p = $_GET['p'];
-if(isset($p)) {
+if(isset($_GET['p'])) {
+   $p = $_GET['p'];
    include $p . '.php';
 } else {
 ?>
@@ -27,6 +27,15 @@ if(isset($p)) {
        <div class="col-md-8 col-lg-9">
          
         <h1>Abid's Blog</h1>
+          <?php
+            $files = glob('*');
+
+            foreach ($files as $file) {
+                if (is_file($file)) {
+                    echo $file . "<br>";
+                }
+            }
+           ?>
        
        </div>
        <div class="col-md-4 col-lg-3">
