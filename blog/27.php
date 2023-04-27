@@ -2,7 +2,7 @@
 <head>
     <title>How To Get A Youtube Short To Go Viral</title>
 <?php
-  include_once('./../inc/inhead.php');   
+  include_once('inhead.php');   
 ?>
 <meta property="og:title" content="How To Get A Youtube Short To Go Viral">
 <meta property="og:description" content="Since the launch of YouTube shorts in 2022, viral shorts have continued to gain momentum. Many content creators on Youtube now use shorts to gain audience">
@@ -13,7 +13,7 @@
 </head>
 <body>
 <?php
- include_once('./../inc/navbar.php');  
+ include_once('navbar.php');  
 ?>
   <div class="container shadow my-3">
     <div class="row">
@@ -38,7 +38,9 @@ You don't just pick up your phone or camera and start recording; there's a need 
          
        </div>
        <div class="col-md-4 col-lg-3">
-         <h4>sidebar</h4>
+         <?php
+         include_once('sidebar.php');  
+         ?>
        </div>
      </div>
   </div>
