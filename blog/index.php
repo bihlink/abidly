@@ -1,14 +1,7 @@
 <?php
 $p = $_GET['p'];
 if(isset($p)) {
-   $file = $p . '.php';
-   if (file_exists($file) == true) {
-       include $file;
-   } else {
-       echo '<h1>The file '.$file.' does not exist.</h1>';
-       exit();
-   }
-   //include $p . '.php';
+   include $p . '.php';
 } else {
 ?>
 
