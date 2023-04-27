@@ -2,7 +2,7 @@
 <head>
     <title>How To Get A Youtube Short To Go Viral</title>
 <?php
-  include_once('../inc/inhead.php');   
+  include_once('.:/opt/remi/php82/root/usr/share/pear:/opt/remi/php82/root/usr/share/php:/usr/share/pear:/usr/share/php/inc/inhead.php');   
 ?>
 <meta property="og:title" content="How To Get A Youtube Short To Go Viral">
 <meta property="og:description" content="Since the launch of YouTube shorts in 2022, viral shorts have continued to gain momentum. Many content creators on Youtube now use shorts to gain audience">
@@ -13,7 +13,7 @@
 </head>
 <body>
 <?php
- include_once('../inc/navbar.php');  
+ include_once('.:/opt/remi/php82/root/usr/share/pear:/opt/remi/php82/root/usr/share/php:/usr/share/pear:/usr/share/php/inc/navbar.php');  
 ?>
   <div class="container shadow my-3">
     <div class="row">
