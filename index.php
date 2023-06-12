@@ -46,9 +46,9 @@
       </div>
       <div class="col">
         <div class="card">
-          <a href="https://tuby.me" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=tuby.me" class="card-img-top" alt="Tuby"></a>
+          <a href="https://webdev.vip" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=webdev.vip" class="card-img-top" alt="WebDev"></a>
           <div class="card-body p-2">
-            <a href="https://tuby.me" target="_blank" class="text-decoration-none"><h6 class="card-title fw-bold">Tuby</h6></a>
+            <a href="https://webdev.vip" target="_blank" class="text-decoration-none"><h6 class="card-title fw-bold">Web Development Tools</h6></a>
           </div>
         </div>
       </div>
