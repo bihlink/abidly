@@ -12,6 +12,7 @@
     
   <div class="container-fluid mt-3">
     <div class="row row-cols-2 row-cols-md-6 g-2">
+        
       <div class="col">
         <div class="card">
           <a href="https://xabid.com" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=xabid.com" class="card-img-top" alt="xAbid"></a>
@@ -38,57 +39,9 @@
       </div>
       <div class="col">
         <div class="card">
-          <a href="https://abidly.com" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=abidly.com" class="card-img-top" alt="Abidly"></a>
-          <div class="card-body p-2">
-            <a href="https://abidly.com" target="_blank" class="text-decoration-none"><h6 class="card-title fw-bold">Abidly</h6></a>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card">
           <a href="https://visoko.net" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=visoko.net" class="card-img-top" alt="Visoko"></a>
           <div class="card-body p-2">
             <a href="https://visoko.net" target="_blank" class="text-decoration-none"><h6 class="card-title fw-bold">Visoko</h6></a>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card">
-          <a href="https://upvo.me" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=upvo.me" class="card-img-top" alt="UPVO"></a>
-          <div class="card-body p-2">
-            <a href="https://upvo.me" target="_blank" class="text-decoration-none"><h6 class="card-title fw-bold">Upvo</h6></a>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card">
-          <a href="https://coki.me" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=coki.me" class="card-img-top" alt="Coki URL Shortener"></a>
-          <div class="card-body p-2">
-            <a href="https://coki.me" target="_blank" class="text-decoration-none"><h6 class="card-title fw-bold">Coki URL Shortener</h6></a>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card">
-          <a href="https://my.coki.me" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=my.coki.me" class="card-img-top" alt="Digital Business Cards"></a>
-          <div class="card-body p-2">
-            <a href="https://my.coki.me" target="_blank" class="text-decoration-none"><h6 class="card-title fw-bold">Digital Business Cards</h6></a>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card">
-          <a href="https://hireclerks.com" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=hireclerks.com" class="card-img-top" alt="Hire Clerks"></a>
-          <div class="card-body p-2">
-            <a href="https://hireclerks.com" target="_blank" class="text-decoration-none"><h6 class="card-title fw-bold">Hire Clerks</h6></a>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card">
-          <a href="https://seoclerksaffiliate.com" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=seoclerksaffiliate.com" class="card-img-top" alt="Seoclerks Affiliate Theme"></a>
-          <div class="card-body p-2">
-            <a href="https://seoclerksaffiliate.com" target="_blank" class="text-decoration-none"><h6 class="card-title fw-bold">Seoclerks Affiliate Theme</h6></a>
           </div>
         </div>
       </div>
