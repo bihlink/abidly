@@ -9,19 +9,10 @@
                 <a class="nav-link active" aria-current="page" href="https://abid.vercel.app/">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="https://abid.vercel.app/pleroma.php">Pleroma Feed</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="https://abid.vercel.app/fedilink.php">FediLink Feed</a>
-              </li>
-              <li class="nav-item">
                 <a class="nav-link" href="https://abid.vercel.app/directory/">Directory</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="https://microblog.club">Microblog</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="https://seolads.com/service/2-hq-high-authority-backlinks-fast-indexing">Add Link Here</a>
+                <a class="nav-link" href="https://buy.stripe.com/aEUbLgcgMgZH65y9AM">Add Link Here</a>
               </li>
             </ul>
           </div>
