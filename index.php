@@ -46,9 +46,9 @@
       </div>
       <div class="col">
         <div class="card">
-          <a href="https://webdev.vip" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=webdev.vip" class="card-img-top" alt="WebDev"></a>
+          <a href="https://visoko.net" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=visoko.net" class="card-img-top" alt="Visoko"></a>
           <div class="card-body p-2">
-            <a href="https://webdev.vip" target="_blank" class="text-decoration-none"><h6 class="card-title fw-bold">Web Development Tools</h6></a>
+            <a href="https://visoko.net" target="_blank" class="text-decoration-none"><h6 class="card-title fw-bold">Visoko</h6></a>
           </div>
         </div>
       </div>
