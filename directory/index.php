@@ -28,7 +28,7 @@
                 <a class="nav-link" href="https://abid.vercel.app/directory/">Directory</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="https://seolads.com/service/2-hq-high-authority-backlinks-fast-indexing">Add Link Here</a>
+                <a class="nav-link" href="https://buy.stripe.com/aEUbLgcgMgZH65y9AM">Add Link Here</a>
               </li>
             </ul>
           </div>
@@ -40,6 +40,17 @@
   <h1>Abid's Link Directory</h1>
 
   <div class="row row-cols-1 row-cols-md-4 g-3">
+
+      <div class="col">
+        <div class="card">
+          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=https://visoko.net" class="card-img-top" alt="Visoko">
+          <div class="card-body">
+            <a href="https://visoko.net" target="_blank">
+            <h5 class="card-title">Visoko</h5>
+            </a>
+          </div>
+        </div>
+     </div>
       
       <div class="col">
         <div class="card">
