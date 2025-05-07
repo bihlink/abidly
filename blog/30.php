@@ -18,6 +18,7 @@
   <div class="container shadow my-3">
     <div class="row">
        <div class="col-md-8 col-lg-9">
+           <H1>Are Changes Required in the Life Situation of God’s Teachers?</H1>
 <i>Inspired by the Teachings of <b><a href="https://www.reddit.com/r/ACIM/comments/1kbiv42/are_changes_required_in_the_life_situation_of/">David Hoffmeister</a></b></i>
 
 The spiritual journey often begins with a desire for change—change in circumstances, relationships, or physical surroundings. But according to David Hoffmeister, one of the most well-known modern-day teachers of A Course in Miracles (ACIM), true transformation doesn't necessarily come from changing our external life, but from changing our mind. The Course itself poses the question: Are changes required in the life situation of God’s teachers? And the answer may surprise us.
