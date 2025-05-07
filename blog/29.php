@@ -1,3 +1,23 @@
+<html lang="en">
+<head>
+    <title>Undoing the Belief in Linear Time: Entering the Holy Instant</title>
+<?php
+  include_once('inhead.php');   
+?>
+<meta property="og:title" content="Unlocking Opportunities: How to Earn Money Online as a Web Developer and Web Designer">
+<meta property="og:description" content="Inspired by the teachings of David Hoffmeister">
+<meta property="og:image" content="">
+<meta property="og:url" content="https://abid.vercel.app/blog/?p=29">
+<meta property="og:site_name" content="Abid's Network">
+<meta property="og:locale" content="en_US">
+</head>
+<body>
+<?php
+ include_once('navbar.php');  
+?>
+  <div class="container shadow my-3">
+    <div class="row">
+       <div class="col-md-8 col-lg-9">
 <h1>Undoing the Belief in Linear Time: Entering the Holy Instant</h1>
 <i>Inspired by the teachings of <b><a href="https://www.reddit.com/r/ACIM/comments/1kbiu6y/undoing_the_belief_in_linear_time_entering_the/">David Hoffmeister</a></b></i>
 
@@ -25,3 +45,13 @@ Living in the Holy Instant does not mean disengaging from life; it means seeing 
 <h3>Conclusion</h3>
 
 Undoing the belief in linear time is not about escaping the world but seeing it through the eyes of Christ—where all things are made new. David Hoffmeister’s invitation to enter the Holy Instant is a call to awaken from the dream of separation and remember the timeless truth of who we are. The past is over. The future is unnecessary. Only now is real. And in this now, we are already home.
+</div>
+       <div class="col-md-4 col-lg-3">
+         <?php
+         include_once('sidebar.php');  
+         ?>
+       </div>
+     </div>
+  </div>
+</body>
+</html>         
