@@ -131,10 +131,10 @@
 
     <div class="col">
         <div class="card">
-          <img src="https://seolads.com/upload/services/6/full-power-seo.png" class="card-img-top" alt="Full Power Ultimate Ranking SEO Mega Pack">
+          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=seolads.com" class="card-img-top" alt="SEO Services">
           <div class="card-body">
-            <a href="https://seolads.com/service/full-power-ultimate-ranking-seo-mega-pack" target="_blank">
-            <h5 class="card-title">Full Power Ultimate Ranking SEO Mega Pack</h5>
+            <a href="https://seolads.com" target="_blank">
+            <h5 class="card-title">SEOLADS</h5>
             </a>
           </div>
         </div>
@@ -142,10 +142,10 @@
 
     <div class="col">
         <div class="card">
-          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=perfectvoucher.com" class="card-img-top" alt="Fund Perfectmoney">
+          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=arabih.ba" class="card-img-top" alt="ARAuBiH">
           <div class="card-body">
-            <a href="https://perfectvoucher.com" target="_blank">
-            <h5 class="card-title">Fund Perfectmoney</h5>
+            <a href="https://arabih.ba" target="_blank">
+            <h5 class="card-title">ARAuBiH</h5>
             </a>
           </div>
         </div>
