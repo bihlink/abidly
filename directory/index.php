@@ -76,7 +76,7 @@
 
      <div class="col">
         <div class="card">
-          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=https://svxlink.online/" class="card-img-top" alt="SVXLink Bosnia">
+          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=https://svxlink.online" class="card-img-top" alt="SVXLink Bosnia">
           <div class="card-body">
             <a href="https://svxlink.online/" target="_blank">
             <h5 class="card-title">SVX Link Bosnia</h5>
@@ -87,10 +87,10 @@
       
      <div class="col">
         <div class="card">
-          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=https://remedium.vercel.app" class="card-img-top" alt="Remedium">
+          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=https://xabid.com" class="card-img-top" alt="Abid Nevesinjac">
           <div class="card-body">
-            <a href="https://remedium.vercel.app" target="_blank">
-            <h5 class="card-title">Remedium</h5>
+            <a href="https://xabid.com" target="_blank">
+            <h5 class="card-title">Abid Nevesinjac</h5>
             </a>
           </div>
         </div>
