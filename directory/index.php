@@ -76,10 +76,10 @@
 
      <div class="col">
         <div class="card">
-          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=sadrzaj.net" class="card-img-top" alt="Sadrzaj.net">
+          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=https://svxlink.online/" class="card-img-top" alt="SVXLink Bosnia">
           <div class="card-body">
-            <a href="https://www.sadrzaj.net/" target="_blank">
-            <h5 class="card-title">Sadrzaj.net</h5>
+            <a href="https://svxlink.online/" target="_blank">
+            <h5 class="card-title">SVX Link Bosnia</h5>
             </a>
           </div>
         </div>
