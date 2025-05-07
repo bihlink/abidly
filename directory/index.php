@@ -65,7 +65,7 @@
       
      <div class="col">
         <div class="card">
-          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=https://linktr.ee/todaki/" class="card-img-top" alt="Todaki">
+          <img src="https://mukdathaispa.co.za/wp-content/uploads/WAAN-JAI-Gentle-Body-Massage.jpg" class="card-img-top" alt="Todaki">
           <div class="card-body">
             <a href="https://linktr.ee/todaki/" target="_blank">
             <h5 class="card-title">토닥이 , 여성전용마사지</h5>
