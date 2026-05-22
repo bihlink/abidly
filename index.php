@@ -13,7 +13,7 @@
   <div class="container-fluid mt-3">
     <div class="row row-cols-2 row-cols-md-6 g-2">
         
-        <div class="row">
+        <div class="row clearfix">
             <div class="col">
                 <h3>Blog</h3>
                 <ul class="list-group list-group-flush">
