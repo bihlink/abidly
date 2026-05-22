@@ -13,6 +13,11 @@
   <div class="container-fluid mt-3">
     <div class="row row-cols-2 row-cols-md-6 g-2">
         <h3>test</h3>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item"><a href="https://abid.vercel.app/blog/?p=27">How To Get A Youtube Short To Go Viral</a></li>
+              <li class="list-group-item"><a href="https://abid.vercel.app/blog/?p=28">Unlocking Opportunities: How to Earn Money Online as a Web Developer and Web Designer</a></li>
+              <li class="list-group-item"><a href="https://abid.vercel.app/blog/?p=29">Undoing the Belief in Linear Time: Entering the Holy Instant</a></li>
+            </ul>
       <div class="col">
         <div class="card">
           <a href="https://xabid.com" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=xabid.com" class="card-img-top" alt="xAbid"></a>
