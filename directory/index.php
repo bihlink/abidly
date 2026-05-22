@@ -87,7 +87,7 @@
       
      <div class="col">
         <div class="card">
-          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=https://xabid.com" class="card-img-top" alt="Abid Nevesinjac">
+          <img src="https://api.pikwy.com/web/6a10264b8807373be93b61f6.jpg" class="card-img-top" alt="Abid Nevesinjac">
           <div class="card-body">
             <a href="https://xabid.com" target="_blank">
             <h5 class="card-title">Abid Nevesinjac</h5>
