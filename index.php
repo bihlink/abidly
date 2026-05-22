@@ -124,6 +124,7 @@
           <ul class="list-group list-group-flush">
               <li class="list-group-item"><a href="https://abid.vercel.app/blog/?p=27">How To Get A Youtube Short To Go Viral</a></li>
               <li class="list-group-item"><a href="https://abid.vercel.app/blog/?p=28">Unlocking Opportunities: How to Earn Money Online as a Web Developer and Web Designer</a></li>
+              <li class="list-group-item"><a href="https://abid.vercel.app/blog/?p=29">Undoing the Belief in Linear Time: Entering the Holy Instant</a></li>
             <li class="list-group-item">A third item</li>
           </ul>
         </div>
