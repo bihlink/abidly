@@ -23,7 +23,7 @@
                 </ul>
             </div>
         </div>
-        
+<!--        
       <div class="col">
         <div class="card">
           <a href="https://xabid.com" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=xabid.com" class="card-img-top" alt="xAbid"></a>
@@ -157,6 +157,7 @@
           </ul>
         </div>
       </div>
+-->
     </div>
   </div>
     
