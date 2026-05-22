@@ -12,7 +12,7 @@
                 <a class="nav-link" href="https://abid.vercel.app/directory/">Directory</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="https://buy.stripe.com/aEUbLgcgMgZH65y9AM">Add Link Here</a>
+                <a class="nav-link" href="https://www.seoclerks.com/user/anwebservices">Add Link Here</a>
               </li>
             </ul>
           </div>
