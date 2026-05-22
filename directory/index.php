@@ -40,6 +40,17 @@
 
       <div class="col">
         <div class="card">
+          <img src="https://www.seoclerks.com/pics/t/000/254/580/7b491205c6804374aaa3b6d0699e1291.png" class="card-img-top" alt="DA90 Backlink">
+          <div class="card-body">
+            <a href="https://www.seoclerks.com/Link-Building/503216/3-DA90-Backlinks-Rank-1-on-Google-FAST" target="_blank">
+            <h5 class="card-title">Add Link Here</h5>
+            </a>
+          </div>
+        </div>
+     </div>
+      
+      <div class="col">
+        <div class="card">
           <img src="https://api.pikwy.com/web/6a1027827cd38d7348727cd5.jpg" class="card-img-top" alt="Visoko">
           <div class="card-body">
             <a href="https://visoko.net" target="_blank">
