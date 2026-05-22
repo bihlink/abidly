@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.0/font/bootstrap-icons.css">
 </head>
 <body>
-<div class="container shadow mt-3">
+<div class="container-fluid">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -33,7 +33,7 @@
     </nav>
 </div>
 
-<div class="container mt-3">
+<div class="container shadow mt-3">
   <h1>Abid's Link Directory</h1>
 
   <div class="row row-cols-1 row-cols-md-4 g-3">
