@@ -11,8 +11,7 @@
 ?>
     
   <div class="container-fluid mt-3">
-    <div class="row row-cols-2 row-cols-md-6 g-2">
-        
+
         <div class="row clearfix">
             <div class="col">
                 <h3>Blog</h3>
@@ -23,7 +22,8 @@
                 </ul>
             </div>
         </div>
-<!--        
+      
+    <div class="row row-cols-2 row-cols-md-6 g-2">
       <div class="col">
         <div class="card">
           <a href="https://xabid.com" target="_blank"><img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=xabid.com" class="card-img-top" alt="xAbid"></a>
@@ -157,7 +157,7 @@
           </ul>
         </div>
       </div>
--->
+
     </div>
   </div>
     
