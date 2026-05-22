@@ -43,7 +43,7 @@
 
       <div class="col">
         <div class="card">
-          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=https://visoko.net" class="card-img-top" alt="Visoko">
+          <img src="https://api.pikwy.com/web/6a1027827cd38d7348727cd5.jpg" class="card-img-top" alt="Visoko">
           <div class="card-body">
             <a href="https://visoko.net" target="_blank">
             <h5 class="card-title">Visoko</h5>
@@ -54,10 +54,10 @@
       
       <div class="col">
         <div class="card">
-          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=https://www.rjclinic.my/laser-eyebag-removal" class="card-img-top" alt="Eye bag laser treatment">
+          <img src="https://api.pikwy.com/web/6a10281efc55b238bf09dd6d.jpg" class="card-img-top" alt="BiH Link">
           <div class="card-body">
-            <a href="https://www.rjclinic.my/laser-eyebag-removal" target="_blank">
-            <h5 class="card-title">Eye bag laser treatment</h5>
+            <a href="https://bihlink.com" target="_blank">
+            <h5 class="card-title">BiH Link</h5>
             </a>
           </div>
         </div>
@@ -65,10 +65,10 @@
       
      <div class="col">
         <div class="card">
-          <img src="https://mukdathaispa.co.za/wp-content/uploads/WAAN-JAI-Gentle-Body-Massage.jpg" class="card-img-top" alt="Todaki">
+          <img src="https://api.pikwy.com/web/6a1029a1e9ff53079a298311.jpg" class="card-img-top" alt="E7POTA">
           <div class="card-body">
-            <a href="https://linktr.ee/todaki/" target="_blank">
-            <h5 class="card-title">토닥이 , 여성전용마사지</h5>
+            <a href="https://e7pota.ba" target="_blank">
+            <h5 class="card-title">E7POTA</h5>
             </a>
           </div>
         </div>
@@ -98,7 +98,7 @@
       
     <div class="col">
         <div class="card">
-          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=fivem-store.com" class="card-img-top" alt="FiveM Store">
+          <img src="https://api.pikwy.com/web/6a1029ea4c6018164621647c.jpg" class="card-img-top" alt="FiveM Store">
           <div class="card-body">
             <a href="https://fivem-store.com/" target="_blank">
             <h5 class="card-title">FiveM Store</h5>
@@ -109,7 +109,7 @@
 
     <div class="col">
       <div class="card">
-        <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=pensivly.com" class="card-img-top" alt="Pensivly">
+        <img src="https://api.pikwy.com/web/6a102a1a6ff6592e6072642f.jpg" class="card-img-top" alt="Pensivly">
         <div class="card-body">
           <a href="https://www.pensivly.com/" target="_blank">
           <h5 class="card-title">Pensivly</h5>
@@ -120,7 +120,7 @@
 
     <div class="col">
       <div class="card">
-        <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=https://www.seoclerks.com/linkin/254580/user/anwebservices" class="card-img-top" alt="AN Web Services">
+        <img src="https://api.pikwy.com/web/6a102a543f2237402825ed66.jpg" class="card-img-top" alt="AN Web Services">
         <div class="card-body">
           <a href="https://www.seoclerks.com/linkin/254580/user/anwebservices" target="_blank">
           <h5 class="card-title">AN Web Services</h5>
@@ -131,7 +131,7 @@
 
     <div class="col">
         <div class="card">
-          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=seolads.com" class="card-img-top" alt="SEO Services">
+          <img src="https://free.pagepeeker.com/v2/thumbs.php?size=x&url=seolads.com" class="card-img-top" alt="SEO Services">
           <div class="card-body">
             <a href="https://seolads.com" target="_blank">
             <h5 class="card-title">SEOLADS</h5>
@@ -142,7 +142,7 @@
 
     <div class="col">
         <div class="card">
-          <img src="https://api.pagepeeker.com/v2/thumbs.php?size=x&code=e29fa6bbd0&url=arabih.ba" class="card-img-top" alt="ARAuBiH">
+          <img src="https://free.pagepeeker.com/v2/thumbs.php?size=x&url=arabih.ba" class="card-img-top" alt="ARAuBiH">
           <div class="card-body">
             <a href="https://arabih.ba" target="_blank">
             <h5 class="card-title">ARAuBiH</h5>
