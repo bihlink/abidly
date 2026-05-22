@@ -10,7 +10,7 @@
  include_once('inc/navbar.php');  
 ?>
     
-  <div class="container-fluid mt-3">
+  <div class="container shadow mt-3">
 
         <div class="row clearfix">
             <div class="col">
