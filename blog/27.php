@@ -34,7 +34,7 @@ You don't just pick up your phone or camera and start recording; there's a need 
 <p>Given that even the biggest <a href="https://xabid.com/digitalni-marketing-u-2026-kompletan-vodic-za-zaradu-i-online-biznis/" target="_blank">Faceless YouTube Channel Ideas</a> uses hashtags, why should you not do the same? Hashtags are important tools for making any trend online. </p>
 <p>Using trending hashtags works in the sense that when people search for content related to the meaning of those hashtags, YouTube's algorithm places your video as one of the search results. Search for trending hashtags on YouTube that are at least a little related to the shorts you want to create and place them in the shorts. </p>
 <h3>In Conclusion</h3>
-<p>Making viral shorts is not that difficult like making a YouTube video go viral. Once you have the right niche, great content, and viral tags, you are good to go. YouTube shorts are also a brilliant way to get subscribers to your channel as a Youtuber. Just know that the quality of your work can keep them coming and even make your channel a go-to for shorts for many people.</p>
+<p>Making viral shorts is not that difficult like making a YouTube video go viral. Once you have the right niche, great content, and viral tags, you are good to go. YouTube shorts are also a brilliant way to get subscribers to your channel as a Youtuber. Just know that the quality of your work can keep them coming and even make your channel a go-to for shorts for many people...</p>
          
        </div>
        <div class="col-md-4 col-lg-3">
