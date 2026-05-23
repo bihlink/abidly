@@ -29,7 +29,7 @@
        </div>
        <div class="col-md-4 col-lg-3">
          <?php
-         include_once('sidebar.php');  
+         include_once('blog/sidebar.php');  
          ?>
        </div>
      </div>
