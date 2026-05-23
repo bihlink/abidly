@@ -10,7 +10,9 @@
  include_once('inc/navbar.php');  
 ?>
     
-  <div class="container shadow mt-3">
+  <div class="container shadow my-3">
+    <div class="row">
+       <div class="col-md-8 col-lg-9">
 
         <div class="row clearfix">
             <div class="col">
@@ -24,6 +26,13 @@
             </div>
         </div>
 
+       </div>
+       <div class="col-md-4 col-lg-3">
+         <?php
+         include_once('sidebar.php');  
+         ?>
+       </div>
+     </div>
   </div>
     
 </body>
