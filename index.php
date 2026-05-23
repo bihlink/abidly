@@ -27,7 +27,7 @@
         </div>
 
 <!-- start dir -->
-  <div class="row row-cols-1 row-cols-md-4 g-3">
+  <div class="row row-cols-1 row-cols-md-3 g-3 mt-3">
 
       <div class="col">
         <div class="card">
